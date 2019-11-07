@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bomberjam Documentation</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://bomberjam-2019.github.io/"/>
+  <updated>2019-11-07T22:44:08.076Z</updated>
+  <id>https://bomberjam-2019.github.io/</id>
+  
+  <author>
+    <name>Code &amp; Beer</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://bomberjam-2019.github.io/test/"/>
+    <id>https://bomberjam-2019.github.io/test/</id>
+    <published>2019-11-07T22:44:08.076Z</published>
+    <updated>2019-11-07T22:44:08.076Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

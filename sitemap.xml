@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bomberjam-2019.github.io/index.html</loc>
+    <loc>https://bomberjam-2019.github.io/test/</loc>
     
-    <lastmod>2019-12-19T06:19:15.524Z</lastmod>
+    <lastmod>2019-12-19T18:47:49.755Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://bomberjam-2019.github.io/test/</loc>
+    <loc>https://bomberjam-2019.github.io/starter-csharp.html</loc>
     
-    <lastmod>2019-12-19T04:09:40.561Z</lastmod>
+    <lastmod>2019-12-19T18:35:56.297Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bomberjam-2019.github.io/starter-js.html</loc>
+    
+    <lastmod>2019-12-19T18:30:40.728Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bomberjam-2019.github.io/index.html</loc>
+    
+    <lastmod>2019-12-19T18:30:39.211Z</lastmod>
     
   </url>
   

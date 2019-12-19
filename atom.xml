@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Bomberjam Documentation</title>
+  <title>Bomberjam documentation</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bomberjam-2019.github.io/"/>
-  <updated>2019-11-07T22:44:08.076Z</updated>
+  <updated>2019-12-19T04:09:40.561Z</updated>
   <id>https://bomberjam-2019.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title></title>
     <link href="https://bomberjam-2019.github.io/test/"/>
     <id>https://bomberjam-2019.github.io/test/</id>
-    <published>2019-11-07T22:44:08.076Z</published>
-    <updated>2019-11-07T22:44:08.076Z</updated>
+    <published>2019-12-19T04:09:40.561Z</published>
+    <updated>2019-12-19T04:09:40.561Z</updated>
     
     <summary type="html">
     

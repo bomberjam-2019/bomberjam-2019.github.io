@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bomberjam-2019.github.io/optimizer-ts.html</loc>
+    
+    <lastmod>2019-12-20T03:15:43.234Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://bomberjam-2019.github.io/starter-csharp.html</loc>
     
     <lastmod>2019-12-20T03:09:57.726Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://bomberjam-2019.github.io/starter-js.html</loc>
     
     <lastmod>2019-12-20T03:09:53.842Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://bomberjam-2019.github.io/optimizer-ts.html</loc>
-    
-    <lastmod>2019-12-20T03:09:46.619Z</lastmod>
     
   </url>
   
